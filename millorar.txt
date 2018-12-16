@@ -1,0 +1,4 @@
+Guardar automatic
+Facil checkbox
+BD Partida, facil-,acabat+
+Tirada id_tirada,num,partida,control,bp,mp
